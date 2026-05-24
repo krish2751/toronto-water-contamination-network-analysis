@@ -1,0 +1,5 @@
+Category,Lead Level (ppb),Count,Proportion (%),Implications
+Level 0,0 - 5,5139,94.72811059907833,None detectable
+Level 1,5 - 10,161,2.967741935483871,"Minimal contamination, yet no safe level for children"
+Level 2,10 - 15,44,0.8110599078341014,Violates trigger level under the Revised Lead Rule; action required
+Level 3,>15,81,1.4930875576036868,"Exceeds EPA action level, indicating significant contamination and need for immediate action"
